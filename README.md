@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/SmoothesHub/CustomJoystickTurning/releases/tag/CustomJoystickTurning-V1">
-    <img src="https://img.shields.io/badge/Latest_Release-1.1.0-blue">
+    <img src="https://img.shields.io/badge/Latest_Release-1.0.0-blue">
   </a>
   <a href="https://www.youtube.com/@smootheofficial">
     <img src="https://img.shields.io/badge/YouTube-Smooth--E-red?labelColor=555555&logo=youtube&logoColor=white">
