@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="./CustomJoystickTurning.png" alt="CustomJoystickTurning Gorilla Tag Mod Preview" width="500">
+  <img src="./CustomJoystickTurning%20Showcase.png" alt="Custom Joystick Turning Preview" width="650">
 </p>
 
