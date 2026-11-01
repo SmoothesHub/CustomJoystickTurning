@@ -17,6 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="./EasyJoin.png" alt="EasyJoin Gorilla Tag Mod Preview" width="500">
+  <img src="./CustomJoystickTurning.png" alt="CustomJoystickTurning Gorilla Tag Mod Preview" width="500">
 </p>
 
